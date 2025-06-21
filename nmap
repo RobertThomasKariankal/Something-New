@@ -7,3 +7,5 @@ Basic Flags Used:
 -A - Does an aggressive scan
 -sT -Obtain Normal TCP connect through SYN/ACK
 -sS -Sthealth scan which doesnt fully connect the Target  through TCP.
+
+Example: sudo nmap -sS -A <IP> -Gives the open port and vulnarability in it.
