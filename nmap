@@ -1,3 +1,7 @@
+Syntax: nmap <flag> <Target IP>
+
+Basic Flags Used:
+
 -sP -Scans the entire subnetwroks in an IP
 -O -Provide with the details of OS within an specific IP
 -A - Does an aggressive scan
