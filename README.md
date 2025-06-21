@@ -1,0 +1,1 @@
+Not a profrssional neither a compelling repo,used to save up some informations or details that i found usefull while learning the basics in Cyber Security.The ultimate goal is to access the common tecniques, methods and its usage when needed anywhere and everywhere.
