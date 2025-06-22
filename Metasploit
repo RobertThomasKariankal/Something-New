@@ -1,4 +1,4 @@
 You can start using Metasploit tool using the command:  msfcontrol
 *use the nmap aggresive sthealth scan over the ports in an system and find the open port and vuknarabilities inside that system.
-*later search for the vulnarability in the metasploit with the
+*later search for the vulnarability in the metasploit with the search : search <vulnarability>
 
