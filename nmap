@@ -1,8 +1,9 @@
-Syntax: nmap <flag> <Target IP>
+Syntax: nmap <flags> <Target IP>
 
 Basic Flags Used:
 
 -sP -Scans the entire subnetwroks in an IP
+*Either you can use nmap or just simply use 'netdiscover' to find out the users or systems under a network.syntax: netdiscover <IP>
 -O -Provide with the details of OS within an specific IP
 -A - Does an aggressive scan
 -sT -Obtain Normal TCP connect through SYN/ACK
