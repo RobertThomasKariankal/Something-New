@@ -1,0 +1,5 @@
+SSH:
+hydra -l <username> -P <full path to pass> MACHINE_IP -t 4 ssh
+
+POST webform:
+sudo hydra <username> <wordlist> MACHINE_IP http-post-form "<path>:<login_credentials>:<invalid_response>"
