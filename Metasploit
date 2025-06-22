@@ -3,3 +3,4 @@ You can start using Metasploit tool using the command:  msfcontrol
 *later search for the vulnarability in the metasploit with the search : search <vulnarability>
 
 *After getting the vulnarability name and version ,to start exploit use the command, syntax: use <vulnarability name>
+*Now,metasploit will show the options over which we have to insert values , fill it and use the command "exploit" to gain access to the console through that specified port.
