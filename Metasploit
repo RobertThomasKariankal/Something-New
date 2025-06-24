@@ -6,10 +6,11 @@ You can start using Metasploit tool using the command:  msfcontrol
 *Now,metasploit will show the options over which we have to insert values , fill it and use the command "exploit" to gain access to the console through that specified port.
 
 *Normal day to day linux commands are supported by the Metasploit,example for such commands are:
-      1)ls
-      2)ping
-      3)clear
-      4)help- the keyword help followed by the command name will show the proper syntax of that particular command.
+      1) ls
+      2) ping
+      3) clear
+      4) help- the keyword help followed by the command name will show the proper syntax of that particular command.
+      5) history
 
 
 
