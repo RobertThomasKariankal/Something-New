@@ -11,6 +11,9 @@ You can start using Metasploit tool using the command:  msfcontrol
       3) clear
       4) help- the keyword help followed by the command name will show the proper syntax of that particular command.
       5) history
+      6) show
+      7) info
+      8) back
 
 
 
